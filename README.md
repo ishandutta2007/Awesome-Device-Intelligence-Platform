@@ -5,7 +5,7 @@
 <p aggregate-align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Device-Intelligence-Platform"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Device-Intelligence-Platform?style=flat-square&logo=github" alt="GitHub stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Device-Intelligence-Platform"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Device-Intelligence-Platform?style=flat-square&logo=github" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Device-Intelligence-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Device-Intelligence-Platform?style=flat-square&logo=github" alt="GitHub forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Device-Intelligence-Platform/stargazers"><img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-Device-Intelligence-Platform?style=flat-square" alt="Last Commit"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -59,7 +59,7 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 
 ## ⚡ Open-Source GitHub Projects
 
-Below is a curated list of top open-source device fingerprinting, browser stealth, and endpoint visibility libraries, **sorted by GitHub star count (descending)**:
+Below is a curated list of top open-source device fingerprinting, browser stealth, and endpoint visibility libraries, **sorted by GitHub Stars_Count (descending)**:
 
 1. **[FingerprintJS](https://github.com/fingerprintjs/fingerprintjs)** [![Stars](https://img.shields.io/github/stars/fingerprintjs/fingerprintjs?style=social&color=white)](https://github.com/fingerprintjs/fingerprintjs/stargazers)  
    🌐 Browser device fingerprinting library with 28,500+ stars. Generates browser identifiers from HTML5 canvas, AudioContext, WebGL, font detection, and browser capabilities.
@@ -147,3 +147,12 @@ If you find this curated ecosystem list helpful for your research, security engi
 
 **Made for fraud prevention analysts 🕵️, identity verification teams 🔐, risk engineers ⚡, and security architects 🛡️.**  
 *Awesome-Awesome-Awesome repository reference: [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)*
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Device-Intelligence-Platform&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Device-Intelligence-Platform_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Device-Intelligence-Platform_growth.svg">
+  </picture>
+</a>

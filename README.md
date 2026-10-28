@@ -54,6 +54,7 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 | **[SEON](https://seon.io/)** 🕵️ | Full fraud prevention & AML platform wrapping device intelligence in digital footprint enrichment, transaction monitoring, and KYC workflows. | $699/month (Starter plan, includes 2,500 fraud checks) | 14-day sales-assisted free trial | $500M Valuation ($187M total funding) |
 | **[Fingerprint](https://fingerprint.com/)** 🔍 | Device intelligence platform providing stable visitor IDs and 60+ real-time signals. Offers native SDKs and low-code Rules Engine. | $99/month for 20K API calls | 14-day free trial (Unlimited calls) + 1,000 free API calls/mo | $50M+ ARR ($77M total funding) |
 | **[Castle](https://castle.io/)** 🏰 | Device intelligence with 99.5% fingerprinting accuracy and 0.001% collision rate. Returns device fingerprint, IP geolocation, and bot score. | $200/month for Pro plan ($200 API budget included) | $5 monthly API budget free (~1,000 Risk & Filter requests) | $37M Valuation ($11.6M total funding) |
+| **[ShieldLabs](https://shieldlabs.ai/)** | Device and visitor identification, VPN/proxy/Tor and bot risk signals, risk scoring, and detection of multi-accounting, account sharing, impossible travel and account takeover. [Documentation](https://docs.shieldlabs.ai/). | From $99/month on monthly billing; [pricing](https://shieldlabs.ai/pricing). | 5,000 free identifications once; [free current-browser checker](https://demo.shieldlabs.ai/anonymity-checker). | Not publicly disclosed |
 
 ---
 
